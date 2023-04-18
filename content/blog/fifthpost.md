@@ -1,5 +1,5 @@
 ---
-title: This is a fifth post (draft)
+title: This is a fifth post.
 description: This post is about adding new content.
 date: 2023-01-23
 
